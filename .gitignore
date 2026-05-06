@@ -11,6 +11,14 @@
 .svn/
 .swiftpm/
 migrate_working_dir/
+.agents/
+.claude/
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+.idea/
+,vibe/
 
 # IntelliJ related
 *.iml
